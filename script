@@ -1,0 +1,4 @@
+create esquema for titanic with PassengerId int Survived int Pclass int Name string Sex string Age float SibSp int Parch int Ticket string Fare float Cabin string Embarked string
+insert into titanic from file "titanic.csv"
+insert into titanic values PassengerId 1 Survived 1 Pclass 2 Name "cristhian david" Sex male Age 23 SibSp 1 Parch 1 Ticket A121 Fare 7.2 Cabin C18 Embarked S
+

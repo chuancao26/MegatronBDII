@@ -1,0 +1,5 @@
+titanic#PassengerId#int#Survived#int#Pclass#int#Name#string#Sex#string#Age#float#SibSp#int#Parch#int#Ticket#string#Fare#float#Cabin#string#Embarked#string
+canciones#name#string#cantante#string
+rosales#PassengerId#int#Name#string#Age#float#Cabin#string
+edades#PassengerId#int#Survived#int#Pclass#int#Name#string#Sex#string#Age#float#SibSp#int#Parch#int#Ticket#string#Fare#float#Cabin#string#Embarked#string
+revision#PassengerId#int#Survived#int#Pclass#int#Name#string#Sex#string#Age#float#SibSp#int#Parch#int#Ticket#string#Fare#float#Cabin#string#Embarked#string
